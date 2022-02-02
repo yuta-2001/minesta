@@ -11,7 +11,7 @@ MINESTAGRAM
 
 ## デモ
 
-
+![demo](https://raw.github.com/wiki/yuta-2001/minesta/images/minestagram_demo.gif)
 
 ## 機能
 
